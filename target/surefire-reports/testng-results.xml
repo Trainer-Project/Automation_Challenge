@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-04-29T01:28:42Z" name="Automation Test Suite" finished-at="2023-04-29T01:28:47Z" duration-ms="5250">
+  <suite started-at="2023-04-29T03:03:11Z" name="Automation Test Suite" finished-at="2023-04-29T03:03:22Z" duration-ms="11560">
     <groups>
       <group name="cucumber">
         <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:smarttech.usa.runner.MyRunner@6c779568]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test started-at="2023-04-29T01:28:42Z" name="functionalTest" finished-at="2023-04-29T01:28:47Z" duration-ms="5250">
+    <test started-at="2023-04-29T03:03:11Z" name="functionalTest" finished-at="2023-04-29T03:03:22Z" duration-ms="11560">
       <class name="smarttech.usa.runner.MyRunner">
-        <test-method is-config="true" signature="setUpClass()[pri:0, instance:smarttech.usa.runner.MyRunner@6c779568]" started-at="2023-04-29T01:28:42Z" name="setUpClass" finished-at="2023-04-29T01:28:42Z" duration-ms="301" status="PASS">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:smarttech.usa.runner.MyRunner@6c779568]" started-at="2023-04-29T03:03:11Z" name="setUpClass" finished-at="2023-04-29T03:03:11Z" duration-ms="351" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:smarttech.usa.runner.MyRunner@6c779568]" started-at="2023-04-29T01:28:42Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-29T01:28:47Z" duration-ms="4859" status="FAIL">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:smarttech.usa.runner.MyRunner@6c779568]" started-at="2023-04-29T03:03:11Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-29T03:03:22Z" duration-ms="11010" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -27,34 +27,10 @@
               </value>
             </param>
           </params>
-          <exception class="java.lang.NullPointerException">
-            <message>
-              <![CDATA[Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
-at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-at jdk.proxy2/jdk.proxy2.$Proxy22.getWrappedElement(Unknown Source)
-at org.openqa.selenium.remote.internal.WebElementToJsonConverter.apply(WebElementToJsonConverter.java:50)
-at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
-at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992)
-at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
-at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
-at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)
-at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
-at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
-at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:484)
-at smarttech.usa.generic.CommonUtil.highLighterMethod(CommonUtil.java:101)
-at smarttech.usa.elementspage.MasterElementsPage.getApplicationLogin(MasterElementsPage.java:59)
-at smarttech.usa.hooks.Hooks.suiteSetup(Hooks.java:18)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.NullPointerException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:smarttech.usa.runner.MyRunner@6c779568]" started-at="2023-04-29T01:28:47Z" name="tearDownClass" finished-at="2023-04-29T01:28:47Z" duration-ms="64" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:smarttech.usa.runner.MyRunner@6c779568]" started-at="2023-04-29T03:03:22Z" name="tearDownClass" finished-at="2023-04-29T03:03:22Z" duration-ms="142" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->

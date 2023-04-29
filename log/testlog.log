@@ -366,3 +366,26 @@
 2023-04-28 21:28:47,821 - QA Automation -INFO - 
 2023-04-28 21:28:47,821 - QA Automation -INFO - ...........END AUTOMATION.............
 2023-04-28 21:28:47,821 - QA Automation -INFO - 
+2023-04-28 23:02:13,897 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-28 23:02:14,806 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-28 23:02:14,833 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-28 23:02:19,163 - QA Automation -INFO - >>>>> User Able To Click On Signup Or Login BTN <<<<< 
+2023-04-28 23:02:21,657 - QA Automation -INFO - >>>>> User Able To Enter User Name <<<<< 
+2023-04-28 23:02:21,934 - QA Automation -INFO - >>>>> User Able To Enter Password <<<<< 
+2023-04-28 23:02:22,113 - QA Automation -INFO - >>>>> User Able To Click On Login BTN <<<<< 
+2023-04-28 23:02:24,654 - QA Automation -INFO - 
+2023-04-28 23:02:24,655 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-28 23:02:24,656 - QA Automation -INFO - 
+2023-04-28 23:03:11,749 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-28 23:03:12,059 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-28 23:03:12,078 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-28 23:03:15,455 - QA Automation -INFO - >>>>> User Able To Click On Signup Or Login BTN <<<<< 
+2023-04-28 23:03:18,335 - QA Automation -INFO - >>>>> User Able To Enter User Name <<<<< 
+2023-04-28 23:03:18,610 - QA Automation -INFO - >>>>> User Able To Enter Password <<<<< 
+2023-04-28 23:03:18,718 - QA Automation -INFO - >>>>> User Able To Click On Login BTN <<<<< 
+2023-04-28 23:03:22,211 - QA Automation -INFO - 
+2023-04-28 23:03:22,211 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-28 23:03:22,211 - QA Automation -INFO - 
+2023-04-28 23:03:22,406 - QA Automation -INFO - 
+2023-04-28 23:03:22,406 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-28 23:03:22,406 - QA Automation -INFO - 

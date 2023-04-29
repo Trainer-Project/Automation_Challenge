@@ -11,7 +11,8 @@ public class Hooks extends BasePage {
 	public Scenario scenario;
 
 	@Before
-	public void suiteSetup() {
+	public void suiteSetup(Scenario scenario) {
+		this.scenario = scenario;
 		initialization();
 		MasterElementsPage pf = new MasterElementsPage();
 		pf.getApplicationLogin(prop.getProperty("userName"), prop.getProperty("textPassword"));
@@ -21,7 +22,7 @@ public class Hooks extends BasePage {
 	}
 
 	@After
-	public void tearDown() {
+	public void tearDown(Scenario scenario) {
 		if (scenario.isFailed()) {
 			CommonUtil.getScreenshot(driver, scenario);
 		}
