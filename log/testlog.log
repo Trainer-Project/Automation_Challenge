@@ -1,0 +1,368 @@
+2023-04-25 21:35:37,080 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-25 21:35:37,920 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-25 21:35:37,951 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-25 21:35:41,791 - QA Automation -INFO - 
+2023-04-25 21:35:41,792 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-25 21:35:41,792 - QA Automation -INFO - 
+2023-04-25 21:35:41,963 - QA Automation -INFO - 
+2023-04-25 21:35:41,963 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-25 21:35:41,964 - QA Automation -INFO - 
+2023-04-25 21:36:16,094 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-25 21:36:16,359 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-25 21:36:16,372 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-25 21:36:19,320 - QA Automation -INFO - 
+2023-04-25 21:36:19,320 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-25 21:36:19,320 - QA Automation -INFO - 
+2023-04-25 21:36:19,444 - QA Automation -INFO - 
+2023-04-25 21:36:19,444 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-25 21:36:19,444 - QA Automation -INFO - 
+2023-04-25 21:36:57,428 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-25 21:36:57,685 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-25 21:36:57,705 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-25 21:37:01,036 - QA Automation -INFO - 
+2023-04-25 21:37:01,036 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-25 21:37:01,036 - QA Automation -INFO - 
+2023-04-25 21:37:01,195 - QA Automation -INFO - 
+2023-04-25 21:37:01,196 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-25 21:37:01,196 - QA Automation -INFO - 
+2023-04-25 21:39:50,570 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-25 21:39:50,832 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-25 21:39:50,845 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-25 21:39:54,288 - QA Automation -INFO - 
+2023-04-25 21:39:54,288 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-25 21:39:54,289 - QA Automation -INFO - 
+2023-04-25 21:39:54,417 - QA Automation -INFO - 
+2023-04-25 21:39:54,417 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-25 21:39:54,417 - QA Automation -INFO - 
+2023-04-25 21:45:09,177 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-25 21:45:09,463 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-25 21:45:09,479 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-25 21:45:12,965 - QA Automation -INFO - 
+2023-04-25 21:45:12,965 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-25 21:45:12,966 - QA Automation -INFO - 
+2023-04-25 21:45:13,124 - QA Automation -INFO - 
+2023-04-25 21:45:13,124 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-25 21:45:13,124 - QA Automation -INFO - 
+2023-04-25 21:48:10,343 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-25 21:48:10,604 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-25 21:48:10,619 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-25 21:48:14,219 - QA Automation -INFO - 
+2023-04-25 21:48:14,219 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-25 21:48:14,219 - QA Automation -INFO - 
+2023-04-25 21:48:14,391 - QA Automation -INFO - 
+2023-04-25 21:48:14,392 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-25 21:48:14,392 - QA Automation -INFO - 
+2023-04-25 21:52:14,782 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-25 21:52:15,069 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-25 21:52:15,091 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-25 21:52:18,398 - QA Automation -INFO - 
+2023-04-25 21:52:18,399 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-25 21:52:18,399 - QA Automation -INFO - 
+2023-04-25 21:52:18,653 - QA Automation -INFO - 
+2023-04-25 21:52:18,654 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-25 21:52:18,654 - QA Automation -INFO - 
+2023-04-25 22:01:30,680 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-25 22:01:30,990 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-25 22:01:31,012 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-25 22:01:34,444 - QA Automation -INFO - 
+2023-04-25 22:01:34,446 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-25 22:01:34,447 - QA Automation -INFO - 
+2023-04-25 22:01:34,780 - QA Automation -INFO - 
+2023-04-25 22:01:34,781 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-25 22:01:34,781 - QA Automation -INFO - 
+2023-04-25 22:13:57,395 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-25 22:13:57,694 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-25 22:13:57,706 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-25 22:14:00,888 - QA Automation -INFO - 
+2023-04-25 22:14:00,889 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-25 22:14:00,891 - QA Automation -INFO - 
+2023-04-25 22:14:01,238 - QA Automation -INFO - 
+2023-04-25 22:14:01,239 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-25 22:14:01,239 - QA Automation -INFO - 
+2023-04-25 22:15:10,036 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-25 22:15:10,333 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-25 22:15:10,358 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-25 22:15:15,167 - QA Automation -INFO - 
+2023-04-25 22:15:15,167 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-25 22:15:15,168 - QA Automation -INFO - 
+2023-04-25 22:15:15,387 - QA Automation -INFO - 
+2023-04-25 22:15:15,387 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-25 22:15:15,388 - QA Automation -INFO - 
+2023-04-27 20:07:05,472 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-27 20:07:06,868 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-27 20:07:06,953 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-27 20:07:10,557 - QA Automation -INFO - 
+2023-04-27 20:07:10,557 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-27 20:07:10,557 - QA Automation -INFO - 
+2023-04-27 20:07:10,772 - QA Automation -INFO - 
+2023-04-27 20:07:10,773 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-27 20:07:10,773 - QA Automation -INFO - 
+2023-04-27 20:09:56,086 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-27 20:09:56,389 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-27 20:09:56,412 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-27 20:10:00,445 - QA Automation -INFO - 
+2023-04-27 20:10:00,445 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-27 20:10:00,445 - QA Automation -INFO - 
+2023-04-27 20:10:00,619 - QA Automation -INFO - 
+2023-04-27 20:10:00,620 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-27 20:10:00,620 - QA Automation -INFO - 
+2023-04-27 20:11:06,507 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-27 20:11:06,792 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-27 20:11:06,816 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-27 20:11:11,007 - QA Automation -INFO - 
+2023-04-27 20:11:11,007 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-27 20:11:11,007 - QA Automation -INFO - 
+2023-04-27 20:11:11,182 - QA Automation -INFO - 
+2023-04-27 20:11:11,184 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-27 20:11:11,184 - QA Automation -INFO - 
+2023-04-27 20:14:29,362 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-27 20:14:29,648 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-27 20:14:29,667 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-27 20:14:33,569 - QA Automation -INFO - 
+2023-04-27 20:14:33,569 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-27 20:14:33,569 - QA Automation -INFO - 
+2023-04-27 20:14:33,757 - QA Automation -INFO - 
+2023-04-27 20:14:33,758 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-27 20:14:33,759 - QA Automation -INFO - 
+2023-04-27 20:15:26,991 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-27 20:15:27,280 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-27 20:15:27,299 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-27 20:15:30,341 - QA Automation -INFO - 
+2023-04-27 20:15:30,342 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-27 20:15:30,343 - QA Automation -INFO - 
+2023-04-27 20:15:30,706 - QA Automation -INFO - 
+2023-04-27 20:15:30,707 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-27 20:15:30,708 - QA Automation -INFO - 
+2023-04-27 20:15:49,944 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-27 20:15:50,232 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-27 20:15:50,249 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-27 20:15:54,022 - QA Automation -INFO - 
+2023-04-27 20:15:54,022 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-27 20:15:54,023 - QA Automation -INFO - 
+2023-04-27 20:15:54,233 - QA Automation -INFO - 
+2023-04-27 20:15:54,234 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-27 20:15:54,235 - QA Automation -INFO - 
+2023-04-27 20:16:22,611 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-27 20:16:22,913 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-27 20:16:22,929 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-27 20:16:26,603 - QA Automation -INFO - 
+2023-04-27 20:16:26,604 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-27 20:16:26,605 - QA Automation -INFO - 
+2023-04-27 20:16:26,774 - QA Automation -INFO - 
+2023-04-27 20:16:26,775 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-27 20:16:26,776 - QA Automation -INFO - 
+2023-04-27 20:16:52,432 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-27 20:16:52,731 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-27 20:16:52,758 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-27 20:16:55,806 - QA Automation -INFO - 
+2023-04-27 20:16:55,807 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-27 20:16:55,807 - QA Automation -INFO - 
+2023-04-27 20:16:56,002 - QA Automation -INFO - 
+2023-04-27 20:16:56,003 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-27 20:16:56,003 - QA Automation -INFO - 
+2023-04-27 20:17:59,637 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-27 20:17:59,928 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-27 20:17:59,953 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-27 20:18:03,780 - QA Automation -INFO - 
+2023-04-27 20:18:03,781 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-27 20:18:03,782 - QA Automation -INFO - 
+2023-04-27 20:18:04,002 - QA Automation -INFO - 
+2023-04-27 20:18:04,003 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-27 20:18:04,004 - QA Automation -INFO - 
+2023-04-27 20:18:28,233 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-27 20:18:28,518 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-27 20:18:28,541 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-27 20:18:31,649 - QA Automation -INFO - 
+2023-04-27 20:18:31,650 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-27 20:18:31,650 - QA Automation -INFO - 
+2023-04-27 20:18:31,846 - QA Automation -INFO - 
+2023-04-27 20:18:31,848 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-27 20:18:31,848 - QA Automation -INFO - 
+2023-04-27 20:20:45,337 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-27 20:20:45,632 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-27 20:20:45,651 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-27 20:20:49,492 - QA Automation -INFO - 
+2023-04-27 20:20:49,493 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-27 20:20:49,493 - QA Automation -INFO - 
+2023-04-27 20:20:49,748 - QA Automation -INFO - 
+2023-04-27 20:20:49,748 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-27 20:20:49,748 - QA Automation -INFO - 
+2023-04-27 20:22:20,580 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-27 20:22:20,861 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-27 20:22:20,880 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-27 20:22:25,668 - QA Automation -INFO - 
+2023-04-27 20:22:25,670 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-27 20:22:25,671 - QA Automation -INFO - 
+2023-04-27 20:22:25,886 - QA Automation -INFO - 
+2023-04-27 20:22:25,886 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-27 20:22:25,888 - QA Automation -INFO - 
+2023-04-27 20:23:16,786 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-27 20:23:17,055 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-27 20:23:17,073 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-27 20:23:21,052 - QA Automation -INFO - 
+2023-04-27 20:23:21,053 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-27 20:23:21,053 - QA Automation -INFO - 
+2023-04-27 20:23:21,199 - QA Automation -INFO - 
+2023-04-27 20:23:21,199 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-27 20:23:21,201 - QA Automation -INFO - 
+2023-04-27 21:28:02,966 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-27 21:28:03,959 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-27 21:28:03,981 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-27 21:28:07,851 - QA Automation -INFO - 
+2023-04-27 21:28:07,852 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-27 21:28:07,852 - QA Automation -INFO - 
+2023-04-27 21:28:07,953 - QA Automation -INFO - 
+2023-04-27 21:28:07,954 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-27 21:28:07,954 - QA Automation -INFO - 
+2023-04-28 19:50:00,598 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-28 19:50:01,979 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-28 19:50:02,019 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-28 19:50:08,881 - QA Automation -INFO - 
+2023-04-28 19:50:08,882 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-28 19:50:08,882 - QA Automation -INFO - 
+2023-04-28 19:50:09,019 - QA Automation -INFO - 
+2023-04-28 19:50:09,020 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-28 19:50:09,020 - QA Automation -INFO - 
+2023-04-28 19:51:33,551 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-28 19:51:33,859 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-28 19:51:33,877 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-28 19:51:38,137 - QA Automation -INFO - 
+2023-04-28 19:51:38,138 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-28 19:51:38,138 - QA Automation -INFO - 
+2023-04-28 19:51:38,322 - QA Automation -INFO - 
+2023-04-28 19:51:38,322 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-28 19:51:38,322 - QA Automation -INFO - 
+2023-04-28 20:18:39,264 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-28 20:18:40,110 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-28 20:18:40,148 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-28 20:18:44,136 - QA Automation -INFO - 
+2023-04-28 20:18:44,138 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-28 20:18:44,674 - QA Automation -INFO - 
+2023-04-28 20:18:44,674 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-28 20:18:44,674 - QA Automation -INFO - 
+2023-04-28 20:21:08,572 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-28 20:21:08,894 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-28 20:21:08,910 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-28 20:21:13,262 - QA Automation -INFO - 
+2023-04-28 20:21:13,263 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-28 20:21:13,748 - QA Automation -INFO - 
+2023-04-28 20:21:13,749 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-28 20:21:13,749 - QA Automation -INFO - 
+2023-04-28 20:22:59,712 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-28 20:23:00,018 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-28 20:23:00,040 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-28 20:23:04,775 - QA Automation -INFO - 
+2023-04-28 20:23:04,775 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-28 20:23:05,314 - QA Automation -INFO - 
+2023-04-28 20:23:05,315 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-28 20:23:05,315 - QA Automation -INFO - 
+2023-04-28 20:24:44,346 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-28 20:24:44,692 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-28 20:24:44,714 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-28 20:24:48,833 - QA Automation -INFO - 
+2023-04-28 20:24:48,833 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-28 20:24:48,834 - QA Automation -INFO - 
+2023-04-28 20:24:58,190 - QA Automation -INFO - 
+2023-04-28 20:24:58,191 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-28 20:24:58,192 - QA Automation -INFO - 
+2023-04-28 20:26:11,839 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-28 20:26:12,163 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-28 20:26:12,180 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-28 20:26:15,873 - QA Automation -INFO - 
+2023-04-28 20:26:15,873 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-28 20:26:15,873 - QA Automation -INFO - 
+2023-04-28 20:26:21,933 - QA Automation -INFO - 
+2023-04-28 20:26:21,934 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-28 20:26:21,935 - QA Automation -INFO - 
+2023-04-28 20:48:41,259 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-28 20:48:41,582 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-28 20:48:41,605 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-28 20:49:35,565 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-28 20:49:35,910 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-28 20:49:35,930 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-28 20:50:10,066 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-28 20:50:10,979 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-28 20:50:10,998 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-28 20:55:04,060 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-28 21:01:26,316 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-28 21:02:32,067 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-28 21:03:20,494 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-28 21:03:20,804 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-28 21:03:20,826 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-28 21:03:24,938 - QA Automation -INFO - 
+2023-04-28 21:03:24,939 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-28 21:03:24,939 - QA Automation -INFO - 
+2023-04-28 21:03:30,786 - QA Automation -INFO - 
+2023-04-28 21:03:30,786 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-28 21:03:30,786 - QA Automation -INFO - 
+2023-04-28 21:03:53,520 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-28 21:03:53,879 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-28 21:03:53,908 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-28 21:03:57,862 - QA Automation -INFO - 
+2023-04-28 21:03:57,864 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-28 21:03:57,864 - QA Automation -INFO - 
+2023-04-28 21:04:03,311 - QA Automation -INFO - 
+2023-04-28 21:04:03,313 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-28 21:04:03,313 - QA Automation -INFO - 
+2023-04-28 21:04:23,863 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-28 21:04:24,236 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-28 21:04:24,254 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-28 21:04:28,093 - QA Automation -INFO - 
+2023-04-28 21:04:28,093 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-28 21:04:28,094 - QA Automation -INFO - 
+2023-04-28 21:04:35,539 - QA Automation -INFO - 
+2023-04-28 21:04:35,540 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-28 21:04:35,541 - QA Automation -INFO - 
+2023-04-28 21:06:53,195 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-28 21:06:53,495 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-28 21:06:53,511 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-28 21:06:57,327 - QA Automation -INFO - 
+2023-04-28 21:06:57,328 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-28 21:06:57,328 - QA Automation -INFO - 
+2023-04-28 21:06:57,375 - QA Automation -INFO - >>>>> User Able To Click On Signup Or Login BTN <<<<< 
+2023-04-28 21:07:00,705 - QA Automation -INFO - >>>>> User Able To Enter User Name <<<<< 
+2023-04-28 21:07:01,639 - QA Automation -INFO - >>>>> User Able To Enter Password <<<<< 
+2023-04-28 21:07:02,271 - QA Automation -INFO - >>>>> User Able To Click On Login BTN <<<<< 
+2023-04-28 21:07:05,520 - QA Automation -INFO - 
+2023-04-28 21:07:05,521 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-28 21:07:05,521 - QA Automation -INFO - 
+2023-04-28 21:08:04,126 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-28 21:08:04,423 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-28 21:08:04,447 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-28 21:08:07,897 - QA Automation -INFO - 
+2023-04-28 21:08:07,897 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-28 21:08:07,898 - QA Automation -INFO - 
+2023-04-28 21:08:07,949 - QA Automation -INFO - >>>>> User Able To Click On Signup Or Login BTN <<<<< 
+2023-04-28 21:08:09,486 - QA Automation -INFO - >>>>> User Able To Enter User Name <<<<< 
+2023-04-28 21:08:09,719 - QA Automation -INFO - >>>>> User Able To Enter Password <<<<< 
+2023-04-28 21:08:09,847 - QA Automation -INFO - >>>>> User Able To Click On Login BTN <<<<< 
+2023-04-28 21:08:13,141 - QA Automation -INFO - 
+2023-04-28 21:08:13,142 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-28 21:08:13,142 - QA Automation -INFO - 
+2023-04-28 21:26:44,101 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-28 21:26:44,370 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-28 21:26:44,390 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-28 21:26:47,324 - QA Automation -INFO - >>>>> User Able To Click On Signup Or Login BTN <<<<< 
+2023-04-28 21:26:47,844 - QA Automation -INFO - 
+2023-04-28 21:26:47,844 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-28 21:26:47,845 - QA Automation -INFO - 
+2023-04-28 21:27:53,126 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-28 21:27:53,381 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-28 21:27:53,404 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-28 21:27:56,707 - QA Automation -INFO - >>>>> User Able To Click On Signup Or Login BTN <<<<< 
+2023-04-28 21:27:58,956 - QA Automation -INFO - >>>>> User Able To Enter User Name <<<<< 
+2023-04-28 21:27:59,150 - QA Automation -INFO - >>>>> User Able To Enter Password <<<<< 
+2023-04-28 21:27:59,229 - QA Automation -INFO - >>>>> User Able To Click On Login BTN <<<<< 
+2023-04-28 21:28:01,425 - QA Automation -INFO - 
+2023-04-28 21:28:01,426 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-04-28 21:28:01,426 - QA Automation -INFO - 
+2023-04-28 21:28:01,646 - QA Automation -INFO - 
+2023-04-28 21:28:01,647 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-28 21:28:01,647 - QA Automation -INFO - 
+2023-04-28 21:28:43,263 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-04-28 21:28:43,550 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-28 21:28:43,566 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-28 21:28:47,327 - QA Automation -INFO - >>>>> User Able To Click On Signup Or Login BTN <<<<< 
+2023-04-28 21:28:47,821 - QA Automation -INFO - 
+2023-04-28 21:28:47,821 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-04-28 21:28:47,821 - QA Automation -INFO - 

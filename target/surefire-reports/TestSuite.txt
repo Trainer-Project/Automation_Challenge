@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 5.764 s <<< FAILURE! - in TestSuite
+smarttech.usa.runner.MyRunner.runScenario["User Able To Login, Purchase And Download Invoice.", "Optional[Valid Users Able To Download Invoice after purchase the order.]"](1)  Time elapsed: 4.772 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+

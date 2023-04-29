@@ -1,0 +1,291 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2023-04-29T01:28:43.207Z",
+        "before": [
+          {
+            "result": {
+              "error_message": "java.lang.NullPointerException: Cannot invoke \"org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)\" because \"this.searchContext\" is null\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\r\n\tat jdk.proxy2/jdk.proxy2.$Proxy22.getWrappedElement(Unknown Source)\r\n\tat org.openqa.selenium.remote.internal.WebElementToJsonConverter.apply(WebElementToJsonConverter.java:50)\r\n\tat java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)\r\n\tat java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:992)\r\n\tat java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)\r\n\tat java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)\r\n\tat java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921)\r\n\tat java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)\r\n\tat java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:484)\r\n\tat smarttech.usa.generic.CommonUtil.highLighterMethod(CommonUtil.java:101)\r\n\tat smarttech.usa.elementspage.MasterElementsPage.getApplicationLogin(MasterElementsPage.java:59)\r\n\tat smarttech.usa.hooks.Hooks.suiteSetup(Hooks.java:18)\r\n",
+              "duration": 4119768200,
+              "status": "failed"
+            },
+            "match": {
+              "location": "smarttech.usa.hooks.Hooks.suiteSetup(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "User Able To Login, Purchase And Download Invoice.",
+        "description": "",
+        "id": "valid-users-able-to-download-invoice-after-purchase-the-order.;user-able-to-login--purchase-and-download-invoice.",
+        "after": [
+          {
+            "result": {
+              "duration": 476766600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "smarttech.usa.hooks.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "Verify that home page is visible successfully",
+            "match": {
+              "location": "smarttech.usa.stepdefinitions.Functional_StepDef.verify_that_home_page_is_visible_successfully()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "Users Able To Click On Products Module",
+            "match": {
+              "location": "smarttech.usa.stepdefinitions.Functional_StepDef.users_able_to_click_on_products_module()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "Users Able To Verify \u0027ALL PRODUCTS\u0027 Text Are Available On The Screen",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027ALL PRODUCTS\u0027",
+                  "offset": 21
+                }
+              ],
+              "location": "smarttech.usa.stepdefinitions.Functional_StepDef.users_able_to_verify_text_are_available_on_the_screen(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "Users Able To Check All the Products Prices Are Displayed And Print In Console",
+            "match": {
+              "location": "smarttech.usa.stepdefinitions.Functional_StepDef.users_able_to_check_all_the_products_prices_are_displayed_and_print_in_console()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "Users Able To Select \u0027Cotton Silk Hand Block Print Saree\u0027 From Display And Verify The Price",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027Cotton Silk Hand Block Print Saree\u0027",
+                  "offset": 21
+                }
+              ],
+              "location": "smarttech.usa.stepdefinitions.Functional_StepDef.users_able_to_select_from_display_and_verify_the_price(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "Users Able To Click On Add To Cart Button",
+            "match": {
+              "location": "smarttech.usa.stepdefinitions.Functional_StepDef.users_able_to_click_on_add_to_cart_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "Users Able To Verify \u0027Your product has been added to cart.\u0027 And Click On View Cart",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027Your product has been added to cart.\u0027",
+                  "offset": 21
+                }
+              ],
+              "location": "smarttech.usa.stepdefinitions.Functional_StepDef.users_able_to_verify_and_click_on_view_cart(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 13,
+            "name": "Verify The Same Price As I See Before Click On Add To Cart",
+            "match": {
+              "location": "smarttech.usa.stepdefinitions.Functional_StepDef.verify_the_same_price_as_i_see_before_click_on_add_to_cart()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 14,
+            "name": "User able to click on the proceed to checkout button",
+            "match": {
+              "location": "smarttech.usa.stepdefinitions.Functional_StepDef.user_able_to_click_on_the_proceed_to_checkout_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 15,
+            "name": "User Able To Add Comment About My Order",
+            "match": {
+              "location": "smarttech.usa.stepdefinitions.Functional_StepDef.user_able_to_add_comment_about_my_order()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 16,
+            "name": "User Able To Click On Place Order",
+            "match": {
+              "location": "smarttech.usa.stepdefinitions.Functional_StepDef.user_able_to_click_on_place_order()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 17,
+            "name": "User able to verify Payment Page",
+            "match": {
+              "location": "smarttech.usa.stepdefinitions.Functional_StepDef.user_able_to_verify_payment_page()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 18,
+            "name": "Enter payment details Name on Card, Card Number, CVC, Expiration date",
+            "match": {
+              "location": "smarttech.usa.stepdefinitions.Functional_StepDef.enter_payment_details_name_on_card_card_number_cvc_expiration_date()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 19,
+            "name": "Click pay and Confirm Order button",
+            "match": {
+              "location": "smarttech.usa.stepdefinitions.Functional_StepDef.click_pay_and_confirm_order_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 20,
+            "name": "Verify success message \u0027Congratulations! Your order has been confirmed!\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027Congratulations! Your order has been confirmed!\u0027",
+                  "offset": 23
+                }
+              ],
+              "location": "smarttech.usa.stepdefinitions.Functional_StepDef.verify_success_message(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 21,
+            "name": "User able to Click on Download Invoice button and verify invoice is downloaded successfully.",
+            "match": {
+              "location": "smarttech.usa.stepdefinitions.Functional_StepDef.user_able_to_click_on_download_invoice_button_and_verify_invoice_is_downloaded_successfully()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 22,
+            "name": "Click on Continue button",
+            "match": {
+              "location": "smarttech.usa.stepdefinitions.Functional_StepDef.click_on_continue_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 23,
+            "name": "Click On Logout Button",
+            "match": {
+              "location": "smarttech.usa.stepdefinitions.Functional_StepDef.click_on_logout_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 24,
+            "name": "Verify The Text \u0027Login to your account\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027Login to your account\u0027",
+                  "offset": 16
+                }
+              ],
+              "location": "smarttech.usa.stepdefinitions.Functional_StepDef.verify_the_text(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Functional"
+          }
+        ]
+      }
+    ],
+    "name": "Valid Users Able To Download Invoice after purchase the order.",
+    "description": "",
+    "id": "valid-users-able-to-download-invoice-after-purchase-the-order.",
+    "keyword": "Feature",
+    "uri": "file:Features/FuntionalTestE2E.feature",
+    "tags": []
+  }
+]
