@@ -12,14 +12,20 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.support.events.EventFiringWebDriver;
+
 import io.github.bonigarcia.wdm.WebDriverManager;
+import smarttech.usa.listiner.WebEventListener;
 
 public class BasePage {
 	public static Logger logger;
 	public static WebDriver driver;
 	public static Properties prop;
 	public Properties configProp;
-
+	public  static EventFiringWebDriver e_driver;
+	public static WebEventListener eventListener;
+	
+	
 	public WebDriver getDriver() {
 		return driver;
 	}
@@ -57,6 +63,13 @@ public class BasePage {
 		} else {
 			logger.info(">>>>> Thre is no browser for Test Execuation <<<<< ");
 		}
+		e_driver = new EventFiringWebDriver(driver);
+		// Now create object of EventListerHandler to register it with EventFiringWebDriver
+		eventListener = new WebEventListener();
+		e_driver.register(eventListener);
+		driver = e_driver;
+		
+		
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);

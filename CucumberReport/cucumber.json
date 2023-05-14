@@ -3,11 +3,11 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2023-04-29T03:03:11.708Z",
+        "start_timestamp": "2023-05-14T19:07:07.255Z",
         "before": [
           {
             "result": {
-              "duration": 10499707500,
+              "duration": 8325799000,
               "status": "passed"
             },
             "match": {
@@ -22,11 +22,20 @@
         "after": [
           {
             "result": {
-              "duration": 123183400,
+              "duration": 2048300,
               "status": "passed"
             },
             "match": {
-              "location": "smarttech.usa.hooks.Hooks.tearDown(io.cucumber.java.Scenario)"
+              "location": "smarttech.usa.hooks.Hooks.takeScraenshotOnFailure(io.cucumber.java.Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 193190800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "smarttech.usa.hooks.Hooks.tearDown()"
             }
           }
         ],
@@ -35,7 +44,7 @@
         "steps": [
           {
             "result": {
-              "duration": 58671000,
+              "duration": 52059000,
               "status": "passed"
             },
             "line": 6,
@@ -58,6 +67,7 @@
           },
           {
             "result": {
+              "duration": 1022200,
               "status": "passed"
             },
             "line": 8,
@@ -114,7 +124,6 @@
           },
           {
             "result": {
-              "duration": 2865700,
               "status": "passed"
             },
             "line": 12,
@@ -209,6 +218,7 @@
           },
           {
             "result": {
+              "duration": 1124700,
               "status": "passed"
             },
             "line": 20,

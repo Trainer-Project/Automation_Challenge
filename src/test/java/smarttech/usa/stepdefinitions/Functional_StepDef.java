@@ -1,6 +1,8 @@
 package smarttech.usa.stepdefinitions;
 
-import io.cucumber.java.en.*;
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
 import smarttech.usa.basepage.BasePage;
 import smarttech.usa.elementspage.MasterElementsPage;
 import smarttech.usa.generic.CommonUtil;
@@ -12,8 +14,7 @@ public class Functional_StepDef extends BasePage {
 	public void verify_that_home_page_is_visible_successfully() {
 		pf = new MasterElementsPage();
 		CommonUtil.getAssertion(CommonUtil.getWebText(pf.getVerifyHomePage()), "Home");
-		//pf.getApplicationLogin(prop.getProperty("userName"), prop.getProperty("textPassword"));
-
+  
 
 	}
 

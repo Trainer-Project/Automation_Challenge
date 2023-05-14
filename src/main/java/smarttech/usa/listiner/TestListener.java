@@ -64,17 +64,17 @@ public class TestListener implements ITestListener {
 	public void onTestFailure(ITestResult result) {
 		logger = extent.createTest(result.getName()); // create new entry in th report
 		logger.log(Status.FAIL, MarkupHelper.createLabel(result.getName(), ExtentColor.RED)); // send the passed
-	/*	if (ITestResult.FAILURE == result.getStatus()) {
+	if (ITestResult.FAILURE == result.getStatus()) {
 			try {
 				TakesScreenshot screenshot = (TakesScreenshot) driver;
 				File src = screenshot.getScreenshotAs(OutputType.FILE);
-				FileUtils.copyFile(src, new File("./Screenshots/" + result.getName() + ".png"));
+				FileUtils.copyFile(src, new File("./Screenshots/" + result.getName() + ".jpg"));
 				System.out.println("Successfully captured a screenshot");
 			} catch (Exception e) {
 				System.out.println("Exception while taking screenshot " + e.getMessage());
 			}
 
-		}*/
+		}
 	} 
 
 	@Override
@@ -86,13 +86,11 @@ public class TestListener implements ITestListener {
 
 	@Override
 	public void onTestFailedButWithinSuccessPercentage(ITestResult result) {
-		// TODO Auto-generated method stub
 
 	}
 
 	@Override
 	public void onStart(ITestContext context) {
-		// TODO Auto-generated method stub
 
 	}
 
