@@ -12,4 +12,4 @@ public class RemoveSpecialCharacterExample {
 		System.out.print(nm[i]);
 
 	}  
-}}
+}}   //iodghl
