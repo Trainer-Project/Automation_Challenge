@@ -1,7 +1,0 @@
-smarttech\usa\generic\WaitHelper.class
-smarttech\usa\listiner\WebEventListener.class
-smarttech\usa\elementspage\MasterElementsPage.class
-smarttech\usa\basepage\BasePage.class
-smarttech\usa\generic\CommonUtil.class
-smarttech\usa\generic\DatabaseUtil.class
-smarttech\usa\listiner\TestListener.class
