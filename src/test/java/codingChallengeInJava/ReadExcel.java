@@ -12,6 +12,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 //How to read excel files using Apache POI
 public class ReadExcel {
 	public static void main(String[] args) throws IOException {
+		System.out.println("");
 		// I have placed an excel file 'Test.xlsx' in my D Driver
 		FileInputStream fis = new FileInputStream("./ZooplaTestData/TestData.xlsx");
 		// creating workbook instance that refers to .xls file
