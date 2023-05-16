@@ -705,3 +705,16 @@
 2023-05-14 21:24:48,227 - QA Automation -INFO - 
 2023-05-14 21:24:48,228 - QA Automation -INFO - ...........END AUTOMATION.............
 2023-05-14 21:24:48,228 - QA Automation -INFO - 
+2023-05-16 19:11:15,314 - QA Automation -INFO - >>>>> Test Execuation will start with Chrome Browser <<<<< 
+2023-05-16 19:11:17,124 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+2023-05-16 19:11:17,230 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\moham\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+2023-05-16 19:11:21,509 - QA Automation -INFO - >>>>> User Able To Click On Signup Or Login BTN <<<<< 
+2023-05-16 19:11:23,764 - QA Automation -INFO - >>>>> User Able To Enter User Name <<<<< 
+2023-05-16 19:11:24,085 - QA Automation -INFO - >>>>> User Able To Enter Password <<<<< 
+2023-05-16 19:11:24,311 - QA Automation -INFO - >>>>> User Able To Click On Login BTN <<<<< 
+2023-05-16 19:11:27,472 - QA Automation -INFO - 
+2023-05-16 19:11:27,472 - QA Automation -INFO - ...........START AUTOMATION.............
+2023-05-16 19:11:27,473 - QA Automation -INFO - 
+2023-05-16 19:11:27,701 - QA Automation -INFO - 
+2023-05-16 19:11:27,701 - QA Automation -INFO - ...........END AUTOMATION.............
+2023-05-16 19:11:27,702 - QA Automation -INFO - 
